@@ -1,7 +1,7 @@
 # Gloss-Nails- ST10493996
 Nail Business 
 
-#Business Proposal 
+# Business Proposal 
 Organisation Overview:
 ●Business Name: 
 	Gloss & Glow
