@@ -119,3 +119,20 @@ REFERENCE:
 •	Fresha. (2025). Free Online Booking Software for Salons and Beauty Businesses. Retrieved from https://www.fresha.com
 •	Upwork. (2025). Average Freelance Web Developer Rates in South Africa. Retrieved from https://www.upwork.com
 •	Webafrica. (2025). Website Maintenance Costs in South Africa. Retrieved from https://www.webafrica.co.za
+
+# Screenshots
+<img width="668" height="823" alt="image" src="https://github.com/user-attachments/assets/8812a7eb-e550-4402-a788-1d5be01d98ea" />
+<img width="590" height="797" alt="image" src="https://github.com/user-attachments/assets/75feef11-05e2-4b68-beca-4a6860250704" />
+<img width="467" height="412" alt="image" src="https://github.com/user-attachments/assets/2bab1667-a966-41ec-8f2e-28d0e3be5f11" />
+<img width="1213" height="745" alt="image" src="https://github.com/user-attachments/assets/383991fd-c15d-4337-bc0e-ad4d6adb8ffb" />
+<img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/cd69d51b-a98b-448f-86ac-ae6905601198" />
+<img width="640" height="896" alt="image" src="https://github.com/user-attachments/assets/99d932f6-a403-4fa8-a265-4b1da35b5b7a" />
+
+
+
+
+
+
+
+
+
